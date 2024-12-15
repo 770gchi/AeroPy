@@ -2,7 +2,11 @@
 ===============
 
 A Flappy Bird Clone made using [python-pygame][pygame]
+
+
 [pygame]: http://www.pygame.org
+
+
 image from
 かわいいフリー素材集 いらすとや
 https://www.irasutoya.com/
