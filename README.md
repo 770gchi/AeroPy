@@ -24,5 +24,5 @@ Based on Python 3.9
 Demo
 ----------
 
-(https://github.com/770gchi/AeroPy/issues/1#issue-2740558324)
+(https://github.com/user-attachments/assets/2349a60e-4916-4307-baf9-72afc6a6d874)
 
