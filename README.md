@@ -11,6 +11,8 @@ image from
 かわいいフリー素材集 いらすとや
 https://www.irasutoya.com/
 
+Based on Python 3.9
+
 
 Demo
 ----------
