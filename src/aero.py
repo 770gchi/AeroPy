@@ -24,7 +24,7 @@ from .entities.player import Invincibility
 class Aero:
     def __init__(self):
         pygame.init()
-        pygame.display.set_caption("让你飞起来模拟器")
+        pygame.display.set_caption("AeroFlaPy")
         window = Window(288, 512)
         screen = pygame.display.set_mode((window.width, window.height))
         images = Images()
